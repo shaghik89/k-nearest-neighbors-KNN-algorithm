@@ -1,4 +1,4 @@
-** k-nearest neighbors (KNN) algorithm
+# k-nearest neighbors (KNN) algorithm
 
 The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning algorithm.
 That can be used to solve both classification and regression problems. 
